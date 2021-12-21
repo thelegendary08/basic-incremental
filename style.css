@@ -1,0 +1,34 @@
+h3 {
+  font-family: "Lucida Console";
+}
+button {
+  font-family: "Lucida Console";
+}
+#headthing {
+  background-color: yellow;
+  border-radius: 12px;
+  width: 200px;
+  height: 200px;
+  border: none;
+}
+#twohead {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 15%;
+  border: none;
+}
+#ppc {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 15%;
+  border: none;
+}
+#ts {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 15%;
+  border: none;
+}
